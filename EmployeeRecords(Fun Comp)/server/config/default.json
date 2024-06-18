@@ -1,0 +1,9 @@
+{
+    "host" : "localhost",
+    "port" : 3306,
+    "database" : "empdb",
+    "user" : "root",
+    "password" : "manager",
+    "serverport" : 9900,
+    "secretKey" : "sunbeaminfo.com"
+}

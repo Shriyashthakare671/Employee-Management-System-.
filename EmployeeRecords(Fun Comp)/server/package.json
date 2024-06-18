@@ -1,0 +1,26 @@
+{
+  "name": "webprogramming",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "Buildin.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "\"dmc\""
+  ],
+  "author": "\"mahesh panhale\",",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.11",
+    "cors": "^2.8.5",
+    "create": "^0.0.2",
+    "create-react-app": "^5.0.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^5.10.18",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "react-app": "^1.1.2"
+  }
+}
